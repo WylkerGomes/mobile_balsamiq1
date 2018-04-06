@@ -1,0 +1,106 @@
+
+
+
+
+body {
+    /*font-family: Helvetica, Verdana, Arial, sans-serif; 
+    /*background: url(images/nysl_logo.png), url(images/soccer.png); */
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+    max-width: 263px;
+    max-height: 530px;
+}
+
+#container{
+    max-width: 263px;
+    max-height: 530px;
+
+}
+
+
+
+.logo_Settings{
+
+    position:fixed;
+    z-index: 1;    
+    background: ;
+    border-bottom-style:outset;
+    display: inline;
+}
+
+
+#logo{
+
+    float: right;
+    resize: both 20px;
+    width:10em;
+    height:10em;
+    margin-left: 40em;
+}
+
+
+#settings{
+    float: left;
+    resize: both 20px;
+    width:10em;
+    height:10em;
+
+
+}
+
+
+
+
+
+
+
+
+/*/////////////  second page nav    //////////////////*/
+
+#nav {
+    position:fixed;
+    display: inline-block;
+    bottom:1px;
+    z-index: 1;
+    background-color: lawngreen;
+border-top-style: inset;
+   
+
+
+}
+#nav li{
+    display: block;
+    display: inline-block;
+    
+
+}
+
+#nav li a{
+
+    padding-right: 4.2em;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
